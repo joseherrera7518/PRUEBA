@@ -1,0 +1,20 @@
+*{ background-color:aquamarine }
+header {
+    background-color: aquamarine;
+    color: rgb(198, 170, 128) ;
+    padding: 20px;
+}
+body{
+    text-align: center;
+    color:black;
+}
+img {
+    display: block;
+    margin: 26px auto;
+    max-width: 200%;
+    height: auto;
+}
+h3{
+    color: rgb(198, 170, 128);
+   
+}
